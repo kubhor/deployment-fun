@@ -1,0 +1,24 @@
+{
+  "name": "deployment-fun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo no test specified",
+    "build": "echo no build needed",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkotrlik/deployment-fun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkotrlik/deployment-fun/issues"
+  },
+  "homepage": "https://github.com/jkotrlik/deployment-fun#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

@@ -21,4 +21,5 @@
 ## Task 3
 * using a different CI than for Task 2, create a docker image from resulting "build" and push it into any docker container registry
 * create a docker-compose.yml somewhere which will run this image, it's version being parametrized ideally by build number, or commit sha
+* if you use CircleCI for this task, you can utilize `cci-pingu` (git)[https://github.com/salsita/cci-pingu] (npm)[https://www.npmjs.com/package/cci-pingu] node module to easily handle the deployment for you (global installation with `sudo npm install -g cci-pingu`)
 * use certbot, to utilize Letsencrypt to generate an HTTPs certificate for the app in docker (server is required) with nginx routing it - either system nginx or (if your DNS provider is integrated) another docker image which will handle the certbot/letsencrypt tooling for you

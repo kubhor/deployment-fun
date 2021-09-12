@@ -1,16 +1,16 @@
 # Deployment fun
 
 ## About
-* get yourself a nodejs runtime
-* install dependencies with `npm ci`
-* run with `npm start`
+* get yourself a nodejs runtime // already from school
+* install dependencies with `npm ci` // 10 minutes to have a look how to start node in VS Code again
+* run with `npm start` // ???
 
 ## Task 1
-* fork repo to your own github
-* create yourself a Heroku account
-* initiate deployment of the repo using pipelines into newly created free Heroku app
-* initiate Heroku pipelines, enable Review Apps
-* create a PR which will automatically set FUN environment variable
+* fork repo to your own github // imported directly from Janko's repo
+* create yourself a Heroku account // easy 
+* initiate deployment of the repo using pipelines into newly created free Heroku app // 10 minutes, but have no idea what I did
+* initiate Heroku pipelines, enable Review Apps // 10 minutes
+* create a PR which will automatically set FUN environment variable // no idea how to set environment variable (a bit of coding???) so manualy wrote "fun" in code to test my pipeline
 
 ## Task 2
 * initiate any kind of CI (GitHub Actions, CircleCI, ..), anything which can be connected to a GitHub

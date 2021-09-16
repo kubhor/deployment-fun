@@ -8,7 +8,7 @@
 ## Task 1
 * fork repo to your own github // imported directly from Janko's repo
 * create yourself a Heroku account // easy 
-* initiate deployment of the repo using pipelines into newly created free Heroku app // 10 minutes, but have no idea what I did
+* initiate deployment of the repo using pipelines into newly created free Heroku app // 10 minutes, quite easy, but have to look a bit closer what that means
 * initiate Heroku pipelines, enable Review Apps // 10 minutes
 * create a PR which will automatically set FUN environment variable // no idea how to set environment variable (a bit of coding???) so manualy wrote "fun" in code to test my pipeline
 

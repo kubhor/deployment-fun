@@ -2,7 +2,7 @@
 
 ## About
 * get yourself a nodejs runtime // already from school
-* install dependencies with `npm ci` // 10 minutes to have a look how to start node in VS Code again
+* install dependencies with `npm ci` // 10 minutes to have a look how to start node in VS Code again, install GitHub desktop, git-osx, ...
 * run with `npm start` // ???
 
 ## Task 1
